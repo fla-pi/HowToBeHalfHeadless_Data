@@ -1,5 +1,5 @@
 # HowToBeHalfHeadless_Data
-Data and code for the paper "How can one be “half headless”?  The interaction of scalar features and constructional semantics in Italian approximating HALF + Adjective constructions"
+Data and code for the paper "How can one be “half headless”?  The interaction of scalar features and constructional semantics in Italian approximating HALF + Adjective constructions".
 
 ## Conditional Inference Trees
 Output of the two CITs. The first employs token counts of adjectival bases, while the second employs type counts. Type counts were calculated by crossing each of the three variables, so a single type can appear more than once in the model if i.e., it is used with both the constructions, or if it yields different semantic outputs.
