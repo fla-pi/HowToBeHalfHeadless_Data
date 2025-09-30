@@ -66,7 +66,7 @@ Number of terminal nodes: 6
     
     Statistics by Class:
       
-      Class: Att Class: Fake Class: KinC Class: Mit Class: Prox Class: Sim
+                          Class: Att Class: Fake Class: KinC Class: Mit Class: Prox Class: Sim
     Sensitivity              0.6559    0.000000     0.85938     0.0000      0.8677       0.00
     Specificity              0.8551    1.000000     0.90858     1.0000      0.7347       1.00
     Pos Pred Value           0.6703         NaN     0.52885        NaN      0.7102        NaN
