@@ -4,7 +4,7 @@ Data and code for the paper "How can one be “half headless”?  The interactio
 ## Conditional Inference Trees
 Output of the two CITs. The first employs token counts of adjectival bases, while the second employs type counts. Type counts were calculated by crossing each of the three variables, so a single type can appear more than once in the model if i.e., it is used with both the constructions, or if it yields different semantic outputs.
 
-The two models largely overlap, as the splits are the same: in fact, in the type-based model the order of Cxn and ScalePoint_Base as splitting factors is only swapped in the sub-tree depending from node 5, but it leads to the same conclusions as the token-based model. The only strong difference between the two models pertains their accuracy, which is higher in the case of token counts (0.67 vs 0.54).
+The two models largely overlap, as the splits are consistent and lead to the same predictions: in fact, in the type-based model the order of Cxn and ScalePoint_Base as splitting factors is only swapped in the sub-tree depending from node 5, but it leads to the same conclusions as the token-based model. The only strong difference between the two models pertains their accuracy, which is higher in the case of token counts (0.67 vs 0.54).
 
 
 ### Token-based model
